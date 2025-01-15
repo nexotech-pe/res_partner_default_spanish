@@ -4,7 +4,7 @@
     'category': 'NexoTech',
     'version': '1.0',
     'depends': ['base','web'],
-    'license': 'LGPL-3',
+    'license': 'Other Proprietary',
     'application': True,
     'data': [
 
