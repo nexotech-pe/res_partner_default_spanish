@@ -3,7 +3,7 @@
     'description': 'Esta personalización permite definir por defecto el idioma español en un contacto nuevo.',
     'category': 'NexoTech',
     'version': '1.0',
-    'depends': ['base','web'],
+    'depends': ['base'],
     'license': 'Other proprietary',
     'application': True,
     'data': [
